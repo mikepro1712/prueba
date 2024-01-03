@@ -1,2 +1,2 @@
 # prueba
-Nombre: Miguel Angel Nogales Araca
+Nombre: Miguel Angel Nogales Arac
